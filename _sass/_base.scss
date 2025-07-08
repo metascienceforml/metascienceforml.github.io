@@ -395,25 +395,6 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-
-// the background image
-.header-background .img {
-  background-image: url("../img/header_large.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center bottom;
-  height: 15em;
-  margin-bottom: 2em;
-  margin-top: -2.7em;
-}
-
-// the color of the text below the about name: subtitle
-.desc {
-    color: $red-color;
-}
-
-
-
 // Social (bottom)
 
 .social {
@@ -1436,3 +1417,22 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+
+
+// the background image
+.header-background .img {
+  background-image: url("../img/header_large.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  height: 15em;
+  margin-bottom: 2em;
+  margin-top: -2.7em;
+}
+
+
+.desc {
+   color: $red-color;
+}
+
