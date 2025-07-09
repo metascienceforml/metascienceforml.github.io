@@ -198,6 +198,7 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
+    margin-left: 5px;
     font-family: monospace;
 
     p {
@@ -1433,6 +1434,7 @@ figure.cover {
 
 
 .desc {
-   color: $red-color;
+   color: $white-color;
+   margin-left: 2px;
 }
 

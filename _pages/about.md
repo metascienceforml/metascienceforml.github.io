@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: About the scientific process in machine learning.
+subtitle: <b>Holding a magnifying glass up to the ways of doing machine learning research.</b>
 
 profile:
   align: left
