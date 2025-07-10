@@ -216,9 +216,41 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+// About
+
+.about {
+  width: 100%;
+
+  .more-info {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-family: monospace;
+
+    p {
+      display: inline-block;
+      margin: 0;
+    }
+  }
+}
+
+
+.about.float-right {
+  margin-left: 1rem;
+}
+
+.about.float-left {
+  margin-right: 1rem;
+}
+
+
 @media (min-width: 576px) {
+  .about {
+    width: 30%%;
+  }
   .profile {
     width: 30%;
+
 
     .address {
       p {
@@ -1421,20 +1453,7 @@ figure.cover {
 
 
 
-// the background image
-.header-background .img {
-  background-image: url("../img/header_large.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center bottom;
-  height: 15em;
-  margin-bottom: 2em;
-  margin-top: -2.7em;
-}
-
-
 .desc {
-   color: $white-color;
-   margin-left: 2px;
+   color: $grey-color;
 }
 
