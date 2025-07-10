@@ -9,23 +9,16 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+  },{id: "nav-activities",
+          title: "activities",
+          description: "Activities and projects related to metascience for machine learning.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "members of the initiative",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -34,7 +27,7 @@ ninja.data = [{
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/the_godfather.html";
             },},{id: "news-we-got-a-starting-fund-from-ellis-unit-delft-blush",
           title: 'We got a starting fund from Ellis unit Delft :blush:',
           description: "",
@@ -44,4 +37,9 @@ ninja.data = [{
           section: "News",},{id: "news-we-launched-the-metascience-for-machine-learning-website-you-are-now-viewing",
           title: 'We launched the metascience for machine learning website you are now viewing.',
           description: "",
-          section: "News",},];
+          section: "News",},{id: "projects-ms4ml-workshop-1",
+          title: 'ms4ml workshop 1',
+          description: "The first workshop on Metascience for Machine Learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project.html";
+            },},];
