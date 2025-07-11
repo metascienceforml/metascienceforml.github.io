@@ -1,4 +1,4 @@
-I am the head of the Computer Vision lab at TU Delft, and my main research theme is finding & evaluating powerful yet flexible physical
+**Jan van Gemert:** I am the head of the Computer Vision lab at TU Delft, and my main research theme is finding & evaluating powerful yet flexible physical
 priors for data-efficient visual recognition AI. I aim to do fundamental empirical understanding-based deep learning research, which is why I am interested in metascience for machine learning.
 
 For me, ms4ml is about methodology. I'm not saying one methodology is 'better' than another,  and strongly believe in that machine learners should do research however they want. Since this includes myself, I have developed over the years an understanding-based style of empirical deep learning research. 
