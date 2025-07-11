@@ -220,6 +220,7 @@ ul.task-list input[type="checkbox"] {
 
 .about {
   width: 100%;
+  margin-bottom: 10px;
 
   .more-info {
     margin-bottom: 5px;
@@ -614,6 +615,7 @@ footer.sticky-bottom {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
+    margin: 0;
 }
 
 .post-list {
@@ -1455,5 +1457,6 @@ figure.cover {
 
 .desc {
    color: $grey-color;
+   margin: 5px;
 }
 

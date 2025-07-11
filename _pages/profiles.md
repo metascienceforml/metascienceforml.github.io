@@ -14,24 +14,23 @@ profiles:
     content: about_hayley.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Hayley Hung</p>
+      <p><a href="https://hhung.github.io/">https://hhung.github.io/</a></p>
+
   - align: left
     image: jan.jpg
     content: about_jan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Jan van Gemert</p>
+      <p><a href="https://jvgemert.github.io/">https://jvgemert.github.io/</a></p>
   - align: right
     image: marco.jpg
     content: about_marco.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Marco Loog</p>
+      <p><a href="https://www.ru.nl/en/people/loog-m">https://www.ru.nl/en/people/loog-m</a></p>
+
       
 ---
