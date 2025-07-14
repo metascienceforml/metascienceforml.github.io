@@ -176,7 +176,7 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
-  - *.pdf
+  - test.pdf
 
 # Plug-ins
 plugins:
