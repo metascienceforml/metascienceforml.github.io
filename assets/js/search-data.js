@@ -23,12 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-we-got-a-starting-fund-from-ellis-unit-delft-blush",
+        },{id: "news-we-got-a-starting-fund-from-ellis-unit-delft-blush",
           title: 'We got a starting fund from Ellis unit Delft :blush:',
           description: "",
           section: "News",},{id: "news-we-organized-our-first-workshop-on-metascience-for-machine-learning-sparkles",
