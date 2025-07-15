@@ -151,7 +151,11 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts", "storyline.pdf"]
+include: 
+  - _pages 
+  - _scripts 
+  - "*.pdf"
+  
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -167,16 +171,17 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  - _pages/about_*
   - purgecss.config.js
   - README.md
   - readme_preview/
   - vendor
+  - _books/
 
 keep_files:
   - CNAME
   - .nojekyll
-  - storyline.pdf
+
 
 # Plug-ins
 plugins:
