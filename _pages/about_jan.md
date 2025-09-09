@@ -7,7 +7,7 @@ I find it important to write down, and share my style. Firstly, to communicate m
 
 I am not a strong believer in stating how things 'should be' done, and pointing out problems (complaining?) is not something that I find constructive. Instead, I aim to build, show, and do things to demonstratively make concrete steps towards the type of machine learning research I myself aim to do.
 
-Some examples of some of my effort on machine learning methodology include:
+Some examples of my effort on methodology include:
 - [Research organization](https://jvgemert.github.io/research.pdf), my guidelines on the organization of doing research, the mindset, processes, and the mentality.
 - [Writing](https://jvgemert.github.io/writing.pdf) is a collection of common writing issues that I ran into. I find clear communication an inherent part of doing science. 
 - [The storyline](https://jvgemert.github.io/storyline.pdf), is my main methodological tool for empirical, understanding-based, machine learning research.
