@@ -13,8 +13,8 @@ Some examples of my effort on methodology include:
 - [The storyline](https://jvgemert.github.io/storyline.pdf), is my main methodological tool for empirical, understanding-based, machine learning research.
 
 I have set up public repositories for ms4ml, which include:
-- [reproducedPapers.org](https://reproducedpapers.org/), a hub for reproduced deep learning papers and their reproductions.
-- [ControlledExperimentsInMl.org/](https://controlledexperimentsinml.org/) for collecting, and sharing, controlled experiments for machine learning.
+- [reproducedPapers.org](https://reproducedpapers.org), a hub for reproduced deep learning papers and their reproductions.
+- [ControlledExperimentsInMl.org](https://controlledexperimentsinml.org) for collecting, and sharing, controlled experiments for machine learning.
 
 I am also teaching a MSc-level ms4ml course called [Fundamental Research in Machine and Deep Learning](https://www.tudelft.nl/onderwijs/opleidingen/masters/dsait/msc-data-science-and-artificial-intelligence-technology/programme/research-course).
 
