@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our second workshop is on Oct 9, 2025 from 12:00-16:30 (walk in lunch)
+Our second workshop is on Oct 9, 2025 from 12:00-16:30 (walk in lunch); [register here](https://forms.office.com/Pages/ResponsePage.aspx?id=TVJuCSlpMECM04q0LeCIe_MHSpD9vMZLtuIwGfBrrkpUNjI4WVJGMVdZWUZXUTEwMEJERFVVRzNFVi4u).
