@@ -46,7 +46,4 @@ During our [workshop on metascience for machine learning](https://www.tudelft.nl
 </div>
 
 
-Etc.. ToDo.. 
-
-
 
