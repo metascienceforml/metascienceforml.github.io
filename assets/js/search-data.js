@@ -35,14 +35,14 @@ ninja.data = [{
           section: "News",},{id: "news-our-second-workshop-is-on-oct-9-2025-from-12-00-16-30-register-here-tentative-schedule",
           title: 'Our second workshop is on Oct 9, 2025 from 12:00-16:30; register here; tentative...',
           description: "",
-          section: "News",},{id: "projects-ms4ml-workshop-1",
-          title: 'ms4ml workshop 1',
-          description: "The first workshop on Metascience for Machine Learning",
+          section: "News",},{id: "projects-the-first-workshop-on-metascience-for-machine-learning",
+          title: 'The first workshop on Metascience for Machine Learning',
+          description: "20 June 2025, Introduction and scoping.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-ms4ml-workshop-2",
-          title: 'ms4ml workshop 2',
-          description: "The second workshop on Metascience for Machine Learning",
+            },},{id: "projects-the-second-workshop-on-metascience-for-machine-learning",
+          title: 'The second workshop on Metascience for Machine Learning',
+          description: "9 Oct 2025, Datasets and benchmarks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},];
