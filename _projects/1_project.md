@@ -1,15 +1,20 @@
 ---
 layout: page
-title: ms4ml workshop 1
-description: The first workshop on Metascience for Machine Learning
+title: The first workshop on Metascience for Machine Learning
+description: 20 June 2025, Introduction and scoping.
 img: assets/img/June20workshop-Pitch_schedule.png
 importance: 1
 category: work
 ---
 
 
+During our [workshop on metascience for machine learning](https://www.tudelft.nl/evenementen/2025/delft-ai/kick-off-workshop-metascience-for-machine-learning) we had the following [schedule](/assets/presentation/Schedule Metascience for Machine Learning Workshop.pptx).
 
-During our [workshop on metascience for machine learning](https://www.tudelft.nl/evenementen/2025/delft-ai/kick-off-workshop-metascience-for-machine-learning) we had the following [schedule](/assets/presentation/Schedule Metascience for Machine Learning Workshop.pptx) and these are the five pitches that we started with:
+
+# Introduction to metascience for ML 
+
+The goal is to introduce the topic, discuss scoping, and form workgroups. To get the discussiong started we sollicited pitches, and the 5 delivered pitches are below:
+
 
 
 <div class="row">
