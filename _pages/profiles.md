@@ -31,6 +31,12 @@ profiles:
     more_info: >
       <p>Marco Loog</p>
       <p><a href="https://www.ru.nl/en/people/loog-m">https://www.ru.nl/en/people/loog-m</a></p>
-
+  - align: left
+    image: nergis.jpg
+    content: about_nergis.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Nergis Tomen</p>
+      <p><a href="https://bit.ly/ntomen">https://bit.ly/ntomen/</a></p>
       
 ---
