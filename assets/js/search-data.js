@@ -35,6 +35,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-second-workshop-is-on-oct-9-2025-from-12-00-16-30-register-here-tentative-schedule",
           title: 'Our second workshop is on Oct 9, 2025 from 12:00-16:30; register here; tentative...',
           description: "",
+          section: "News",},{id: "news-our-third-workshop-is-on-friday-december-5th-2025-from-10-00-15-00-register-here-tentative-schedule-and-location-at-firma-van-buiten-address-thijsseweg-1-2629-ja-delft",
+          title: 'Our third workshop is on Friday, December 5th, 2025 from 10:00-15:00; register here;...',
+          description: "",
           section: "News",},{id: "projects-the-first-workshop-on-metascience-for-machine-learning",
           title: 'The first workshop on Metascience for Machine Learning',
           description: "20 June 2025, Introduction and scoping.",
@@ -45,4 +48,9 @@ ninja.data = [{
           description: "9 Oct 2025, Datasets and benchmarks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
+            },},{id: "projects-the-third-workshop-on-metascience-for-machine-learning",
+          title: 'The third workshop on Metascience for Machine Learning',
+          description: "5 Dec 2025,",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project.html";
             },},];
