@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We organized our first [workshop on metascience for machine learning](https://www.tudelft.nl/evenementen/2025/delft-ai/kick-off-workshop-metascience-for-machine-learning)  on June 20, 2025! :sparkles:
+We organized our first [workshop on metascience for machine learning](https://www.tudelft.nl/evenementen/2025/delft-ai/kick-off-workshop-metascience-for-machine-learning)  on June 20, 2025! :sparkles:. 

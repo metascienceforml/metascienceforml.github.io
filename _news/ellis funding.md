@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We got a [starting fund](https://www.tudelft.nl/ellis-delft-unit/programmes/metascience-for-machine-learning) from Ellis unit Delft :blush:
+We got a [starting fund](https://www.tudelft.nl/ellis-delft-unit/programmes/metascience-for-machine-learning) from Ellis unit Delft :blush: ![ELLIS Delft logo](/assets/img/ELLIS.jpg)

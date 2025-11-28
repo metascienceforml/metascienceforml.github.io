@@ -7,6 +7,9 @@ importance: 1
 category: work
 ---
 
+![ELLIS Delft logo](/assets/img/ELLISlarger.jpg)
+
+The workshop is kindly sponsored by ELLIS unit Delft.
 
 During our [workshop on metascience for machine learning](https://www.tudelft.nl/evenementen/2025/delft-ai/kick-off-workshop-metascience-for-machine-learning) we had the following [schedule](/assets/presentation/Schedule Metascience for Machine Learning Workshop.pptx).
 
