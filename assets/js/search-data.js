@@ -48,9 +48,9 @@ ninja.data = [{
           description: "9 Oct 2025, Datasets and benchmarks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-the-third-workshop-on-metascience-for-machine-learning",
-          title: 'The third workshop on Metascience for Machine Learning',
-          description: "5 Dec 2025,",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
             },},];
