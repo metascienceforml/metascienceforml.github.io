@@ -19,7 +19,7 @@ Our [second workshop](https://www.tudelft.nl/evenementen/2025/delft-ai/ellis/sec
 
 12:00 Walk in lunch at LB.01.040
 
-12:35 Welcome in Snijderszaal
+12:35 Welcome in Snijderszaal: [presentation](/assets/presentation/Schedule9oct25.pdf)
 
 12:45 Joaquin Vanschoren
 
