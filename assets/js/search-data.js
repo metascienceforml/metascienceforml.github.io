@@ -38,19 +38,19 @@ ninja.data = [{
           section: "News",},{id: "news-our-third-workshop-is-on-friday-december-5th-2025-from-10-00-15-00-register-here-tentative-schedule-and-location-at-firma-van-buiten-address-thijsseweg-1-2629-ja-delft",
           title: 'Our third workshop is on Friday, December 5th, 2025 from 10:00-15:00; register here;...',
           description: "",
-          section: "News",},{id: "projects-the-first-workshop-on-metascience-for-machine-learning",
-          title: 'The first workshop on Metascience for Machine Learning',
-          description: "20 June 2025, Introduction and scoping.",
+          section: "News",},{id: "projects-introduction-and-scoping",
+          title: 'Introduction and scoping.',
+          description: "20 June 2025, The first workshop on Metascience for Machine Learning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-the-second-workshop-on-metascience-for-machine-learning",
-          title: 'The second workshop on Metascience for Machine Learning',
-          description: "9 Oct 2025, Datasets and benchmarks.",
+            },},{id: "projects-datasets-and-benchmarks",
+          title: 'Datasets and benchmarks.',
+          description: "9 Oct 2025, The second workshop on Metascience for Machine Learning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-the-third-workshop-on-metascience-for-machine-learning",
-          title: 'The third workshop on Metascience for Machine Learning',
-          description: "5 Dec 2025, Inspiration from other fields -- Philosophy and Psychology.",
+            },},{id: "projects-inspiration-from-philosophy-and-psychology",
+          title: 'Inspiration from Philosophy and Psychology.',
+          description: "5 Dec 2025, The third workshop on Metascience for Machine Learning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
             },},];
