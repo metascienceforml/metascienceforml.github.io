@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The first workshop on Metascience for Machine Learning
-description: 20 June 2025, Introduction and scoping.
+title: Introduction and scoping.
+description: 20 June 2025, The first workshop on Metascience for Machine Learning.
 img: assets/img/June20workshop-Pitch_schedule.png
 importance: 1
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The third workshop on Metascience for Machine Learning
-description: 5 Dec 2025, Inspiration from other fields -- Philosophy and Psychology.
+title: Inspiration from Philosophy and Psychology.
+description: 5 Dec 2025, The third workshop on Metascience for Machine Learning. 
 img: assets/img/5dec-schedule.png
 importance: 1
 category: work

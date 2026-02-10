@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The second workshop on Metascience for Machine Learning
-description: 9 Oct 2025, Datasets and benchmarks.
+title: Datasets and benchmarks.
+description: 9 Oct 2025, The second workshop on Metascience for Machine Learning.
 img: assets/img/9oct-schedule.png
 importance: 1
 category: work
