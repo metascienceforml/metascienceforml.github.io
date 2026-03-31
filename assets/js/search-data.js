@@ -38,7 +38,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-third-workshop-is-on-friday-december-5th-2025-from-10-00-15-00-register-here-tentative-schedule-and-location-at-firma-van-buiten-address-thijsseweg-1-2629-ja-delft",
           title: 'Our third workshop is on Friday, December 5th, 2025 from 10:00-15:00; register here;...',
           description: "",
-          section: "News",},{id: "news-our-fourth-workshop-is-on-friday-april-10th-2026-from-10-00-15-00-tentative-schedule-and-location-at-building-36-tu-delft-campus-mekelweg-4-2628-cd-delft-register-here",
+          section: "News",},{id: "news-our-fourth-workshop-is-on-friday-april-10th-2026-from-10-00-15-00-tentative-schedule-and-location-is-lecture-room-pi-at-building-36-tu-delft-campus-mekelweg-4-2628-cd-delft-register-here",
           title: 'Our fourth workshop is on Friday, April 10th, 2026 from 10:00-15:00; tentative schedule,...',
           description: "",
           section: "News",},{id: "projects-introduction-and-scoping",
