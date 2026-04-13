@@ -56,8 +56,8 @@ ninja.data = [{
           description: "5 Dec 2025, The third workshop on Metascience for Machine Learning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-understanding-ms4ml-and-understanding-based-research-in-ml",
-          title: 'Understanding ms4ml and understanding-based research in ML.',
+            },},{id: "projects-understanding-based-research-in-machine-and-deep-learning",
+          title: 'Understanding-based research in Machine and Deep Learning.',
           description: "10 Apr 2026, The fourth workshop on Metascience for Machine Learning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
