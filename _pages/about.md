@@ -30,3 +30,4 @@ It's about how research in machine learning is done, the methodology, the proces
 
 AI is changing the world, and machine learning has proved a valuable tool for other important scientific fields. Here, we turn the tables, and put the spotlight on the scientific research field of machine learning itself.
 
+To receive updates, feel free to subscribe to our [Metascience for Machine Learning mailing list](https://listserv.tudelft.nl/mailman/listinfo/metascience4machinelearning-ewi).
