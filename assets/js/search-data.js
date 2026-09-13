@@ -41,6 +41,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-fourth-workshop-is-on-friday-april-10th-2026-from-10-00-15-00-tentative-schedule-and-location-is-lecture-room-pi-at-building-36-tu-delft-campus-mekelweg-4-2628-cd-delft-register-here",
           title: 'Our fourth workshop is on Friday, April 10th, 2026 from 10:00-15:00; tentative schedule,...',
           description: "",
+          section: "News",},{id: "news-our-fifth-workshop-is-on-tuesday-sept-22-2026-from-10-00-15-00-tentative-schedule-and-location-is-snijderszaal-lb01-010-at-building-36-tu-delft-campus-mekelweg-4-2628-cd-delft-register-here",
+          title: 'Our fifth workshop is on Tuesday, Sept 22, 2026 from 10:00-15:00; tentative schedule,...',
+          description: "",
           section: "News",},{id: "projects-introduction-and-scoping",
           title: 'Introduction and scoping.',
           description: "20 June 2025, The first workshop on Metascience for Machine Learning.",
@@ -61,4 +64,9 @@ ninja.data = [{
           description: "10 Apr 2026, The fourth workshop on Metascience for Machine Learning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
+            },},{id: "projects-why-what-and-how-of-metascience-for-machine-learning",
+          title: 'Why, what, and how of metascience for Machine Learning.',
+          description: "22 Sept 2026, The fifth workshop on Metascience for Machine Learning.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project.html";
             },},];
