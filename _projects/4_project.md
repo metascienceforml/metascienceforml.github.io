@@ -24,7 +24,7 @@ Our [fourth workshop](https://www.tudelft.nl/evenementen/2026/delft-ai/workshop-
 
 10:00:  Walk in with coffee/tea
 
-10:15 Overview [presentation](/assets/presentatioApril10ScheduleMS4ML.pdf)
+10:15 Overview [presentation](/assets/presentation/April10ScheduleMS4ML.pdf)
 
 10:30 workgroup updates and new workgroup stimulation.
  
