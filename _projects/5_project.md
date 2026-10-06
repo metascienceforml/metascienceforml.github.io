@@ -53,8 +53,8 @@ In this interactive session, Abigail will introduce the history and philosophy o
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="/assets/presentation/NievesDelgado.pptx"> 
-            {% include figure.liquid loading="eager" path="assets/img/5decAbigail.png" title="Nieves Delgado Keynote" class="img-fluid rounded z-depth-1" %}
+        <a href="/assets/presentation/DelgadoDelftWorkshop_September2026.pdf"> 
+            {% include figure.liquid loading="eager" path="assets/img/abigail22Sept26.png" title="Nieves Delgado Keynote" class="img-fluid rounded z-depth-1" %}
             <div class="caption">Abigail Nieves Delgado's session: Philosophy of Science as a Tool for Scientific Practice</div>
         </a>
     </div>
